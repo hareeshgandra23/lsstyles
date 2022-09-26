@@ -12,7 +12,8 @@ Provide tools that help developers build their own custom components with common
 Installation is easy as LS Styles has minimal dependencies.
 Several quick start options are available:
 
-Clone the repo: `git clone https://github.com/twbs/bootstrap.git`
+## NPM Installation
+Clone the repo: `git clone https://github.com/hareeshgandra23/lsstyles.git`
 Install with npm: `npm install lsstyles`
 
 # What's included
@@ -20,8 +21,7 @@ Install with npm: `npm install lsstyles`
 Within the download you'll find the directories with compiled variations.
 
 # Creators
-
-## Hareesh Gandra
+Hareesh Gandra
 
 # Copyright and license
 
