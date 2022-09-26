@@ -1,0 +1,22 @@
+{
+  "name": "lsstyles",
+  "version": "1.0.0",
+  "description": "Customised styles for frontend projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hareeshgandra23/lsstyles.git"
+  },
+  "keywords": [
+    "lsstyles"
+  ],
+  "author": "Hareesh Gandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hareeshgandra23/lsstyles/issues"
+  },
+  "homepage": "https://github.com/hareeshgandra23/lsstyles#readme"
+}
