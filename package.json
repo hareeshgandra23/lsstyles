@@ -1,6 +1,6 @@
 {
   "name": "lsstyles",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Customised styles for frontend projects.", 
   "scripts": {
     "ng": "ng",
@@ -9,7 +9,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "^14.2.0",
     "@angular/cdk": "^14.2.2",
